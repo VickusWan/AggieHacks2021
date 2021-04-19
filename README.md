@@ -25,8 +25,9 @@ Because the dataset has been pulled from different sources, the time period for 
 
 Furthermore, we interpolated data from the annual data onto the monthly, in order to fill the gaps in-between.
 
+![](https://github.com/VickusWan/AggieHacks2021/blob/main/img/noInterpolate.PNG)
 
-
+![](https://github.com/VickusWan/AggieHacks2021/blob/main/img/withinterpolate.PNG)
 
 
 
