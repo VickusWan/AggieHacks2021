@@ -19,7 +19,11 @@ According to a report done by the National league of Cities (NLC) (1), there are
 - Mental Health and Substance Use
 - Domestic Violence
 
+## Data Interpolation
 
+Because the dataset has been pulled from different sources, the time period for each variable is not consistent; some variables are monthly, quarterly or yearly. In this case, the monthly period time is selected.
+
+Furthermore, we interpolated data from the annual data onto the monthly, in order to fill the gaps in-between.
 
 
 
