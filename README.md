@@ -5,8 +5,9 @@ The purpose of this project is to model the effect of the pandemic on the number
 1. Understanding the driving factors
 2. Research appropriate and relevant datasets
 3. Data cleaning and EDA
-4. Feature Engineering
-5. Regression
+4. Statistical Analysis
+5. Feature Engineering
+6. Regression
 
 ## Understanding driving factors
 
