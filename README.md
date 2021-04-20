@@ -33,7 +33,7 @@ Furthermore, we interpolated data from the annual data onto the monthly, in orde
 
 To measure the effect of the pandemic on the number of homeless people, we extrapolated values for 2020 based on values for 2019. This leads to 2 different models: model with pandemic and without pandemic.
 
-![] (https://github.com/VickusWan/AggieHacks2021/blob/main/img/homelesss.PNG)
+![](https://github.com/VickusWan/AggieHacks2021/blob/main/img/homelesss.PNG)
 
 As shown, based on our regression analysis, the pandemic has led to an increase in homeless people, for the state of California.
 
