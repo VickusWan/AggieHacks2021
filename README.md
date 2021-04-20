@@ -1,5 +1,7 @@
 # AggieHacks2021
 
+Deck slides: https://docs.google.com/presentation/d/1dXoqQfLIBY66v7o4s0BDbizG7YuGZowVm1V1v7hm0ss/edit?usp=sharing
+
 The purpose of this project is to model the effect of the pandemic on the number of homeless people, specifically in California. For this Hackathon, the process can be broken down into the following steps
 
 1. Understanding the driving factors
